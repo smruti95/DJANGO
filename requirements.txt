@@ -1,0 +1,9 @@
+django
+djangorestframework
+drf-yasg
+djangorestframework-simplejwt
+psycopg2-binary
+python-dotenv
+django-debug-toolbar
+celery
+redis
